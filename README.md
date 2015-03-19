@@ -1,6 +1,5 @@
-# sfeir-school
-Sfeir School
+# Sfeir School
 
 TODO : 
 
-Mindmap AngularJS-200 sfeir school v1 
+Mindmap todo 
